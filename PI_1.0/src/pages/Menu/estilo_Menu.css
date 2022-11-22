@@ -1,0 +1,93 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(222, 248, 222);
+}
+
+.cartao1{
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    height: 200px ;
+    align-items: center;
+    border-radius: 25px;
+    padding: 20px;
+    
+    
+}
+
+.cartao1 h2{
+    padding-left: 75px;
+}
+
+.cartao1 button{
+
+    padding: 15px 25px;
+    border-radius: 15px;
+    
+    border:none;
+    font-weight: bold;
+    color: white;
+    border-color: green;
+    
+    margin-left: 60px;
+    background-color: rgb(52,211,77);
+    
+}
+
+.cartao1 button:hover{
+    background-color: rgb(111, 245, 131);
+   color: black;
+}
+
+
+.cartao1 img{
+    padding-left: 60px;
+}
+
+
+
+.container1{
+  
+    padding: 60px;
+    
+
+    display: flex;
+    justify-content: center;
+    
+}
+
+.container1 div{
+
+    margin: 60px;
+    
+    
+}
+
+.container2{
+   
+    padding: 10px;
+    
+    display: flex;
+    justify-content: center;
+}
+
+.container2 div{
+
+    margin: 10px;
+    
+}
+
+h1{
+    text-align: center;
+ }
+ 
+ .h2_ps{
+     
+    margin-left: -35px;
+
+ }
+ .h2_pi{
+
+    margin-top: 10px;
+    margin-left: -05px;
+ }
+ 

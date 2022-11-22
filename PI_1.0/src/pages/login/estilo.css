@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(222, 248, 222);
+}
+div{
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 50px;
+    border-radius: 15px;
+}
+input{
+    padding: 15px;
+    border-color: green;
+    outline: none;
+    border-radius: 15px;
+    border-style: solid;
+}
+
+
+
+h1{
+   text-align: center;
+}
+     
